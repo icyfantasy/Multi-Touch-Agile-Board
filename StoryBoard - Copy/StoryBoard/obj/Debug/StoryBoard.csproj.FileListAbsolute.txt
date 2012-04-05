@@ -1,0 +1,36 @@
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\bin\Debug\Resources\icon.png
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\bin\Debug\StoryBoard.xml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\bin\Debug\StoryBoard.exe
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\bin\Debug\StoryBoard.pdb
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\ResolveAssemblyReference.cache
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\SurfaceWindow1.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\App.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\SurfaceWindow1.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\App.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard_Content.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard_MarkupCompile.cache
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard.g.resources
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard.Properties.Resources.resources
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\GenerateResource.read.1.tlog
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\GenerateResource.write.1.tlog
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard.exe
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\StoryBoard.pdb
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard\StoryBoard\obj\Debug\shared\LibraryControlResourceDictionary.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard.exe
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard.pdb
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\bin\Debug\Resources\icon.png
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\bin\Debug\StoryBoard.xml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\bin\Debug\StoryBoard.exe
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\bin\Debug\StoryBoard.pdb
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\ResolveAssemblyReference.cache
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\shared\LibraryControlResourceDictionary.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\SurfaceWindow1.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\App.baml
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\SurfaceWindow1.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\App.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard_Content.g.cs
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard_MarkupCompile.cache
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard.g.resources
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\StoryBoard.Properties.Resources.resources
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\GenerateResource.read.1.tlog
+\\engad.foe.auckland.ac.nz\engdfs\home\jlu233\Desktop\Frank\StoryBoard - Copy\StoryBoard\obj\Debug\GenerateResource.write.1.tlog
